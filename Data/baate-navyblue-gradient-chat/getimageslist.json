@@ -1,6 +1,9 @@
 {
     "Status": true,
     "HttpStatus": 200,
+    "Settings": {
+        "VideoCall":"Fail"
+    },
     "Data": [],
     "Message": "Can't connect. We apologize for the inconvenience. Please try again later."
 }
